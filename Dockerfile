@@ -1,6 +1,6 @@
 FROM python:3.10-bullseye
 
-WORKDIR /usr/src/appß
+WORKDIR /usr/src/app
 
 RUN pip install --upgrade pip
 
